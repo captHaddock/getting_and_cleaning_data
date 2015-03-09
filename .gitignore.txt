@@ -1,0 +1,7 @@
+UCI HAR Dataset/
+20Dataset.zip
+.DS_Store
+quiz1/data/
+quiz2/data/
+quiz3/data/
+quiz4/data/
